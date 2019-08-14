@@ -3,11 +3,13 @@ This project is for students in the JavaScript course.
 There are 3 tasks to this project. Each task builds on the last.
 
 #Task 1 Carousel
-A simple navigation system and carousel have been built.
-Students must write the JavaScript to make the carousel functional.
-Carousel must change slides when < or > buttons are pressed
-Carousel must change slides when radial buttons are pressed
-Students can decide to have carousel auto rotate, or leave rotation to button presses.
+- A simple navigation system and carousel have been built.
+- Students must write the JavaScript to make the carousel functional.
+- Carousel must change slides when < or > buttons are pressed
+- Carousel must change slides when radial buttons are pressed
+- Students can decide to have carousel auto rotate, or leave rotation to button presses.
+
+- Solution on branch Task1-solution
 
 #Task 2 Update Carousel Content
 Students must update slide content using an api.
@@ -20,4 +22,8 @@ Students must update slide content using an api.
 ###### Mentor Notes
 - Probably makes sense to use create-react-app to generated the base app since I believe that is the starting point for most of the Treehouse React work
 - Maybe add one or two optional tasks for students who have a stronger command of React by the time this comes around
-- TODO: Create the React template files
+
+- Solution
+- Basic React app created on branch task3-solution using create-react-app
+- to run project npm start
+- http://localhost:3000 in browser to see project  
